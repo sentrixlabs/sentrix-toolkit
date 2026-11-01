@@ -1,0 +1,9 @@
+name: example-tool
+category: checkers        # analyzers | checkers | tools | mappings
+version: 0.1.0
+language: python          # python | powershell | bash
+summary: One line describing what the tool does.
+read_only: true
+permissions:
+  - "Exact scopes or roles needed"
+frameworks: []

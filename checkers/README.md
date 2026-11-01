@@ -1,0 +1,3 @@
+# Checkers
+
+Single-control verifiers.

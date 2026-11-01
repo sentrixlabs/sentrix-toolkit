@@ -1,0 +1,13 @@
+.claude/
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.tfstate*
+*.tfvars
+__pycache__/
+.venv/
+node_modules/
+.DS_Store
