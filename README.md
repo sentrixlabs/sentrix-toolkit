@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/header.svg" width="100%" alt="Sentrix Toolkit, open read-only security and compliance tools">
+
 # Sentrix Toolkit
 
 **Open, read-only security and compliance tools by [Sentrix](https://sentrix.ca).**<br>
